@@ -4,4 +4,22 @@ format: html
 editor: visual
 ---
 
-Hello guys, welcome to my recipes <3
+Hello guys, welcome to my recipes \<3
+
+## Pfirsich-Maracuja-Philadelphiatorte ohne Backen
+
+![Serviervorschlag](https://img.chefkoch-cdn.de/rezepte/2586111405944707/bilder/1315549/crop-960x640/pfirsich-maracuja-philadelphiatorte-ohne-backen.jpg){width="297"}
+
+-   Zutaten
+    -   400 g Doppelrahmfrischkäse
+    -   1 ½ Tasse/n Puderzucker
+    -   2 Becher Sahne, à ca. 200 g
+    -   125 g Margarine oder Butter
+    -   150 g Löffelbiskuits
+    -   150 g Butterkeks(e), Vollkorn oder normal
+    -   2 Beutel Götterspeise, Zitronengeschmack
+    -   500 ml Maracujasaft oder Pfirsich-Maracujasaft oder Smoothy
+    -   1 Beutel Tortenguss
+    -   1 Dose Pfirsich(e), ca. 800 g oder frisches Obst z.B. Mango
+
+<https://www.chefkoch.de/rezepte/2586111405944707/Pfirsich-Maracuja-Philadelphiatorte-ohne-Backen.html>
