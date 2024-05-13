@@ -8,7 +8,7 @@ Hello guys, welcome to my recipes \<3
 
 ## Pfirsich-Maracuja-Philadelphiatorte ohne Backen
 
-![Serviervorschlag](https://img.chefkoch-cdn.de/rezepte/2586111405944707/bilder/1315549/crop-960x640/pfirsich-maracuja-philadelphiatorte-ohne-backen.jpg){width="297"}
+![Serviervorschlag](https://img.chefkoch-cdn.de/rezepte/2586111405944707/bilder/1315549/crop-960x640/pfirsich-maracuja-philadelphiatorte-ohne-backen.jpg){fig-align="left" width="654" height="158"}
 
 -   Zutaten
     -   400 g Doppelrahmfrischkäse
