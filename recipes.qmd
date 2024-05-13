@@ -1,6 +1,8 @@
 ---
 title: "recipes"
+author: "Nicole"
 format: html
+theme: minty
 editor: visual
 ---
 
